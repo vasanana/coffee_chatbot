@@ -1,0 +1,5 @@
+flask
+PyMuPDF
+langchain
+chromadb
+ollama
