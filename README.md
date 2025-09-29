@@ -1,3 +1,5 @@
+--7th semester project (PMLD)--
+
 Coffee Chatbot is a simple web application that allows users to ask questions about coffee and get instant answers. It combines a backend built with Flask and LangChain with a Llama2 model running on Ollama, and uses a small knowledge base stored in a Chroma database.
 
 ## Features
